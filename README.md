@@ -29,4 +29,5 @@ Durant ces lives nous allons faire du javascript, un peu de HTML mais pas de sty
 
 ## Ressources
 
-- []()
+- [Modules en JS](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Modules)
+- [Class](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Statements/class)

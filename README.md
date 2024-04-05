@@ -18,16 +18,17 @@ Durant ces lives nous allons faire du javascript, un peu de HTML mais pas de sty
 
 ## Planning
 
-| Numéro | Date       | Heure     | Titre                                                                               | Replay                |
-| ------ | ---------- | --------- | ----------------------------------------------------------------------------------- | --------------------- |
-| 01     | 15/03/2024 | 10h - 11h | Créer une barre de recherche pour trouver les coordonnées d’une ville de France 1/2 | Pas encore disponible |
-| 02     | 22/03/2024 | 10h - 11h | Créer une barre de recherche pour trouver les coordonnées d’une ville de France 2/2 | Pas encore disponible |
-| 03     | 28/03/2024 | 10h - 11h | On utilise l’API OpenMeteo pour récupérer les données du vent en temps réel 1/2     | Pas encore disponible |
-| 04     | 05/04/2024 | 10h - 11h | On utilise l’API OpenMeteo pour récupérer les données du vent en temps réel 2/2     | Pas encore disponible |
-| 05     | 12/04/2024 | 10h - 11h | Création de notre fleur en 3D et animation en fonction des données de l’API 1/2     | Pas encore disponible |
-| 05     | 19/04/2024 | 10h - 11h | Création de notre fleur en 3D et animation en fonction des données de l’API 2/2     | Pas encore disponible |
+| Numéro | Date       | Heure     | Titre                                                                               | Replay                                      |
+| ------ | ---------- | --------- | ----------------------------------------------------------------------------------- | ------------------------------------------- |
+| 01     | 15/03/2024 | 10h - 11h | Créer une barre de recherche pour trouver les coordonnées d’une ville de France 1/2 | https://app.studi.fr/v3/events/65644/replay |
+| 02     | 22/03/2024 | 10h - 11h | Créer une barre de recherche pour trouver les coordonnées d’une ville de France 2/2 | https://app.studi.fr/v3/events/66348/replay |
+| 03     | 05/04/2024 | 10h - 11h | On utilise l’API OpenMeteo pour récupérer les données du vent en temps réel 1/2     | https://app.studi.fr/v3/events/66422/replay |
+| 04     | 12/04/2024 | 10h - 11h | On utilise l’API OpenMeteo pour récupérer les données du vent en temps réel 2/2     | Pas encore disponible                       |
+| 05     | 19/04/2024 | 10h - 11h | Création de notre fleur en 3D et animation en fonction des données de l’API 1/2     | Pas encore disponible                       |
+| 06     | 26/04/2024 | 10h - 11h | Création de notre fleur en 3D et animation en fonction des données de l’API 2/2     | Pas encore disponible                       |
 
 ## Ressources
 
 - [Modules en JS](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Modules)
 - [Class](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Statements/class)
+- [API Météo](https://open-meteo.com/)

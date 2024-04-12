@@ -22,8 +22,8 @@ Durant ces lives nous allons faire du javascript, un peu de HTML mais pas de sty
 | ------ | ---------- | --------- | ----------------------------------------------------------------------------------- | ------------------------------------------- |
 | 01     | 15/03/2024 | 10h - 11h | Créer une barre de recherche pour trouver les coordonnées d’une ville de France 1/2 | https://app.studi.fr/v3/events/65644/replay |
 | 02     | 22/03/2024 | 10h - 11h | Créer une barre de recherche pour trouver les coordonnées d’une ville de France 2/2 | https://app.studi.fr/v3/events/66348/replay |
-| 03     | 05/04/2024 | 10h - 11h | On utilise l’API OpenMeteo pour récupérer les données du vent en temps réel 1/2     | https://app.studi.fr/v3/events/66422/replay |
-| 04     | 12/04/2024 | 10h - 11h | On utilise l’API OpenMeteo pour récupérer les données du vent en temps réel 2/2     | Pas encore disponible                       |
+| 03     | 05/04/2024 | 10h - 11h | On utilise l’API OpenMeteo pour récupérer les données du vent en temps réel         | https://app.studi.fr/v3/events/66422/replay |
+| 04     | 12/04/2024 | 10h - 11h | Introdution à THREE.js                                                              | https://app.studi.fr/v3/events/67473/replay |
 | 05     | 19/04/2024 | 10h - 11h | Création de notre fleur en 3D et animation en fonction des données de l’API 1/2     | Pas encore disponible                       |
 | 06     | 26/04/2024 | 10h - 11h | Création de notre fleur en 3D et animation en fonction des données de l’API 2/2     | Pas encore disponible                       |
 

@@ -4,10 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ma fleur vivante</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .canvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 0;
+        }
+
+        .form {
+            margin-top: 4rem;
+            display: flex;
+            justify-content: center;
+            position: relative;
+            z-index: 1;
+        }
+    </style>
 </head>
 <body>
+
+    <div class="canvas js-canvas"></div>
     
-    <form class="js-search-form">
+    <form class="form js-search-form">
         <label>
             Tapez le nom d'une ville :
             <input type="text" class="js-search-input">
@@ -15,6 +39,14 @@
         <button type="submit">Valider</button>
     </form>
 
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "https://cdn.jsdelivr.net/npm/three@0.163.0/build/three.module.js",
+                "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.163.0/examples/jsm/"
+            }
+        }
+    </script>
     <script src="app.js" type="module"></script>
 </body>
 </html>

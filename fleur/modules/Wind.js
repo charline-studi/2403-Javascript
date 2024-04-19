@@ -1,7 +1,7 @@
 /* 
 RÉCUPÉRER LES DONNÉES DE VENTS EN TEMPS RÉEL
-- [ ] Récupérer la direction du vent
-- [ ] Récupérer la vitesse du vent
+- [x] Récupérer la direction du vent
+- [x] Récupérer la vitesse du vent
 - [ ] BONUS : Actualise mes données toutes les 15 minutes
 
 https://api.open-meteo.com/v1/forecast?latitude=48.8567&longitude=2.3522&current=wind_speed_10m,wind_direction_10m&timezone=Europe%2FLondon
@@ -19,7 +19,6 @@ class Wind {
     init(){
         this.buildUrl()
         this.getWindData()
-        console.log('in class Wind', this.lat, this.long)
     }
 
     buildUrl() {

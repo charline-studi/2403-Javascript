@@ -26,6 +26,7 @@ Durant ces lives nous allons faire du javascript, un peu de HTML mais pas de sty
 | 04     | 12/04/2024 | 10h - 11h | Introdution à THREE.js                                                              | https://app.studi.fr/v3/events/67473/replay |
 | 05     | 19/04/2024 | 10h - 11h | Mise en placce de THREE dans notre projet                                           | https://app.studi.fr/v3/events/67474/replay |
 | 06     | 26/04/2024 | 10h - 11h | Création de notre fleur en 3D et animation en fonction des données de l’API 2/2     | https://app.studi.fr/v3/events/67472/replay |
+| 07     | 03/05/2024 | 10h - 11h | Création de notre fleur en 3D et animation en fonction des données de l’API 3/2     | https://app.studi.fr/v3/events/69300/replay |
 
 ## Ressources
 

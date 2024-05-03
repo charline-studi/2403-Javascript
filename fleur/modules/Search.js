@@ -40,6 +40,8 @@ class Search {
         if (cityData) {
             const lat = cityData.lat
             const long = cityData.lng
+            window.app.city = name
+            window.app.resetAnimation = true
             new Wind({lat, long})
         } else {
             alert('La ville rensiengée n\'existe pas')
